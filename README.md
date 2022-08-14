@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mint</h1>
 <h3 align="center">Systems Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmpy05&label=Profile%20views&color=0e75b6&style=flat" alt="juanmpy05" /> </p>
-
 ![](https://data.whicdn.com/images/360371212/original.gif)
 
 <h3 align="left">Languages and Tools:</h3>
