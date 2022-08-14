@@ -1,14 +1,13 @@
-### print('Hello World 👋')
+<h1 align="center">Hi 👋, I'm Mint</h1>
+<h3 align="center">Systems Engineering Student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmpy05&label=Profile%20views&color=0e75b6&style=flat" alt="juanmpy05" /> </p>
+
 ![](https://data.whicdn.com/images/360371212/original.gif)
 
-📖 Systems Engineering Student
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Habilidades: C++ / Python
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmpy05&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanmpy05" /></p>
 
-- 📫 Cómo contactarme: Mint#1524 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juanmpy05)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmpy05)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmpy05&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmpy05&show_icons=true&theme=dark&locale=en" alt="juanmpy05" /></p>
